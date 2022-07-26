@@ -7,12 +7,15 @@
 
 import Foundation
 
-var nums = Bag<Int>()
-nums.add(1)
-nums.add(2)
-nums.add(3)
-
-for num in nums {
-    print(num)
-}
-
+//adjacencyMatrixRepresentation()
+//adjacencyListRepresentation()
+adjacencyListAndBFS()
+//6 8
+//1 2
+//1 5
+//2 3
+//2 4
+//2 5
+//5 4
+//4 3
+//4 6
