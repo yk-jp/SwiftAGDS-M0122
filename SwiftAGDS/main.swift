@@ -9,7 +9,9 @@ import Foundation
 
 //adjacencyMatrixRepresentation()
 //adjacencyListRepresentation()
-adjacencyListAndBFS()
+//adjacencyListAndBFS()
+treeTraversal()
+
 //6 8
 //1 2
 //1 5
