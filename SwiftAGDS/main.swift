@@ -10,7 +10,10 @@ import Foundation
 //adjacencyMatrixRepresentation()
 //adjacencyListRepresentation()
 //adjacencyListAndBFS()
-treeTraversal()
+//treeTraversal()
+//town()
+//maze()
+topologicalSort()
 
 //6 8
 //1 2
